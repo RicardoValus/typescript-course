@@ -13,5 +13,8 @@
     "@types/node": "^20.12.7",
     "live-server": "^1.2.2",
     "systemjs": "^0.21.6"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.29"
   }
 }
